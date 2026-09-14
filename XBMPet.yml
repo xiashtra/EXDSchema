@@ -40,3 +40,4 @@ fields:
 - name: InflictsBind
 - name: InflictsHeavy
 - name: InflictsDeath
+  comment: includes actions that inflict flat damage or cause death
